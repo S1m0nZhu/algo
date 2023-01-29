@@ -1,7 +1,5 @@
 # Liquid Staked Derivatives You Need To Know
 
-![What is Liquid Staking?](https://s3.amazonaws.com/assets.coingecko.com/app/public/ckeditor\_assets/pictures/5610/content\_WHAT\_IS\_E\_4.png)
-
 **Table of Contents**
 
 * [What is Liquid Staking?](broken-reference)
@@ -13,17 +11,6 @@
   * [StaFi (FIS)](broken-reference)
   * [Stader (SD)](broken-reference)
 * [Conclusion and Summary](broken-reference)
-
-***
-
-#### Key Takeaways:
-
-* As Ethereum is a Proof-of-Stake chain now, users can stake their ETH to earn staking rewards.
-* Staked ETH currently cannot be unstaked until the upcoming Shanghai upgrade in March, resulting in ETH being locked up and being capital inefficient.
-* Liquid staking, one of the latest trends, solves this by allowing users to receive a liquid staked derivative token for staking ETH that they can use in DeFi.
-* Liquid staking providers offer liquid staking services while earning a 5-10% commission fee.
-* After the Shanghai upgrade, ETH can be unstaked, resulting in more users likely liquid staking their ETH, growing the revenue of liquid stalking providers.
-* There is a growing number of liquid staking providers across Ethereum, and some of them will be discussed in this article.
 
 ***
 
