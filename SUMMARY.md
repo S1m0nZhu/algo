@@ -24,4 +24,4 @@
   * [散列表](notes/20\_hashtable/readme.md)
 * [typescript](typescript/README.md)
   * [队列](typescript/09\_queue/README.md)
-* [Liquid Staked Derivatives You Need To Know](liquid-staked-derivatives-you-need-to-know.md)
+* [Introduction of 5 Liquid Staked Derivatives You Need To Know](introduction-of-5-liquid-staked-derivatives-you-need-to-know.md)
